@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "595698570313",
+    "firebase_url": "https://aplikasi-tv-masjid-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "aplikasi-tv-masjid",
+    "storage_bucket": "aplikasi-tv-masjid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595698570313:android:cde6267840ced5fd335b98",
+        "android_client_info": {
+          "package_name": "com.example.master_masjid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595698570313-ausk0drgdhdmh9g0dtvsuh2a8cnh337o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTHuqa2fiy2ELUyLRSjFGr-XqC5MYI8i0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595698570313-ausk0drgdhdmh9g0dtvsuh2a8cnh337o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595698570313-g23sffn6uhgrq3qf2b398cvvjtvmes0c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tvApplication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595698570313:android:83f4f1dd9fedd0af335b98",
+        "android_client_info": {
+          "package_name": "com.example.tampilan_tv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595698570313-ausk0drgdhdmh9g0dtvsuh2a8cnh337o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTHuqa2fiy2ELUyLRSjFGr-XqC5MYI8i0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595698570313-ausk0drgdhdmh9g0dtvsuh2a8cnh337o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595698570313-g23sffn6uhgrq3qf2b398cvvjtvmes0c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tvApplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
